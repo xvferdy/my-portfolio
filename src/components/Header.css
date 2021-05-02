@@ -10,11 +10,11 @@
 }
 
 .header_home:hover {
-  background-color: #00e5ff;
+  background-color: #2196f3;
 }
 
 .header_home_active {
-  background-color: #00e5ff;
+  background-color: #2196f3;
   padding: 22px;
   display: flex;
   justify-content: center;

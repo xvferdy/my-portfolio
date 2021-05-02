@@ -19,8 +19,8 @@ import "./App.css";
 
 //material
 import { createMuiTheme, ThemeProvider } from "@material-ui/core";
-import { Container, Grid } from "@material-ui/core";
-import { blue, orange } from "@material-ui/core/colors";
+import { Container, Grid, Typography } from "@material-ui/core";
+import { blue, orange, purple, green } from "@material-ui/core/colors";
 
 const theme = createMuiTheme({
   //ada di app.css theme color 1 lagi
@@ -50,7 +50,9 @@ function App() {
             <Profile />
           </Grid>
           <Grid item xs={12} md={8} lg={9}>
-            <Router>
+            {/* *** BROWSER ROUTER SUB DIRECTORY (GITHUB HOMEPAGE) *** */}
+            <Router basename="/my-portfolio">
+              {/* *** BROWSER ROUTER SUB DIRECTORY (GITHUB HOMEPAGE) *** */}
               <Header />
               <div className="main-content container_shadow">
                 <Route
