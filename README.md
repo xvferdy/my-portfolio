@@ -31,4 +31,5 @@ $ gh-pages -d build
 - [ ] Loading... srceen
 - [ ] Image resize / compress
 - [ ] Downloadable content 
+- [ ] Replace image display to import method
 
