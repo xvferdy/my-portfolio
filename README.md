@@ -1,6 +1,6 @@
 # my-portfolio
 
-> Inspiration ➡️ [tavonline](https://thetav.online/html/mat/model/index.html)
+> This website inspired by ➡️ [tavonline](https://thetav.online/html/mat/model/index.html)
 
 - ### ```npm install```
 - ### ```npm start```
