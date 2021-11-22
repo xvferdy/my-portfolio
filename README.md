@@ -1,35 +1,17 @@
 # my-portfolio
 
-## Setup
-To run this project, install it locally using npm:
+> _This website inspired by_ 🚀 [***tavonline***](https://thetav.online/html/mat/model/index.html)
 
-```
-$ npm install
-$ npm start
-```
-
-## Deploy
-Via GitHub Pages. [link](https://create-react-app.dev/docs/deployment/#github-pages "CRA Github")
-
-```
-$ npm run build
-$ gh-pages -d build
-```
+- ### ```npm install```
+- ### ```npm start```
 
 ## Readme Documnetation
-<samp>Coming soon</samp>
+:rocket::confetti_ball::balloon:<samp>...Coming soon...</samp>:rocket::confetti_ball::balloon:
 
 ---
 
-#### :rocket::confetti_ball::balloon: Problem:
+#### Problem:
 - [ ] Page refresh - https://github.com/rafgraph/spa-github-pages 
 - [ ] Route component rendered twice in CSSTransitiongroup
-- [ ] Button as link not using inherit color
 
-#### Todo:
-- [x] Make responsive
-- [ ] Loading... srceen
-- [ ] Image resize / compress
-- [ ] Downloadable content 
-- [ ] Replace image display to import method
-
+# //
