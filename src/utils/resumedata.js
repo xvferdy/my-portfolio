@@ -97,10 +97,10 @@ const data = {
   ],
   projects: [
     {
-      title: "Notes App",
-      image: "notes.png",
-      link: "https://github.com/xvferdy/notes-app",
-      description: "React, Material-UI, JSON Server",
+      title: "Covid19 search",
+      image: "covid.png",
+      link: "https://github.com/xvferdy/covid19-search",
+      description: "React",
     },
     {
       title: "Daftar Ekskul",
@@ -115,10 +115,10 @@ const data = {
       description: "Javascript, Bulma, Node.Js, Express",
     },
     {
-      title: "Simple Social Media",
-      image: "social.png",
-      link: "https://github.com/xvferdy/mern-sequelize",
-      description: "React, Material-UI, Node.Js, Express, MySQL",
+      title: "Maze",
+      image: "maze.png",
+      link: "https://github.com/xvferdy/maze",
+      description: "HTML, CSS, Javascript, MatterJS",
     },
     {
       title: "Newsletter",
@@ -127,10 +127,10 @@ const data = {
       description: "Javascript, Bootstrap, Node.Js, Express",
     },
     {
-      title: "Simon Game",
-      image: "simon.png",
-      link: "https://github.com/xvferdy/simon-game",
-      description: "HTML, CSS, jQuery",
+      title: "Rock Paper Scissors",
+      image: "suwit.png",
+      link: "https://github.com/xvferdy/rock-paper-scissors",
+      description: "HTML, CSS, Javascript",
     },
   ],
 };
